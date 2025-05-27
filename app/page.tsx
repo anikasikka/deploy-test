@@ -25,7 +25,7 @@ export default function Home() {
           height={120}
           priority
         />
-        <Image
+        <Imagea
           className="dark:invert"
           src="/210617-austin-stock.jpg"
           alt="Next.js logo"
