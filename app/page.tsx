@@ -2,10 +2,10 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div>
+    <div style={{ backgroundColor: '#0047AB' }}>
       <h2 
         id="title" 
-        style={{ textAlign: 'center', padding: 30}}
+        style={{ textAlign: 'center', padding: 30, color: 'white'}}
       ><b>Some cool photos!</b></h2>
 
       <div style={{ display: 'flex', justifyContent: 'center', padding: '50px 0', gap:20 }}>
