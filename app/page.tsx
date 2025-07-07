@@ -6,7 +6,7 @@ export default function Home() {
       <h2 
         id="title" 
         style={{ textAlign: 'center', padding: 30, color: 'white'}}
-      ><b>Some cool photos! change to see if legacy states get triggered #haha what why isn't sdfsdf hahahahaha</b></h2>
+      ><b>Some cool photos! change to see if legacy states get triggered  why isn't sdfsdf hahahahaha</b></h2>
 
       <div style={{ display: 'flex', justifyContent: 'center', padding: '50px 0', gap:20 }}>
         <Image
