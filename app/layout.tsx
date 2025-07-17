@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
+error error clear build error here. 
+
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
