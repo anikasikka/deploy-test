@@ -7,7 +7,7 @@ export default function Home() {
       <h2 
         id="title" 
         style={{ textAlign: 'center', padding: 30, color: 'white'}}
-      ><b>Some cool photos! hello world oops maybe something is not queued now</b></h2>
+      ><b>Some cool photos! hello world adsasdasdasd maybe something is not queued now</b></h2>
 
       <div style={{ display: 'flex', justifyContent: 'center', padding: '50px 0', gap:20 }}>
         <Image
